@@ -1,0 +1,11 @@
+{
+  "name": "vcal"
+, "version": "0.0.1"
+, "description": ""
+, "author": "Wil Asche <wil@asche.us>"
+, "keywords": ["vcal", "ics", "ical", "icalendar"]
+, "repository": "git://github.com/kurakin/node-vcal.git"
+, "dependencies": {
+	}
+, "engine": ">= 0.4.1"
+}
