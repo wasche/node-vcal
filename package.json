@@ -1,11 +1,13 @@
 {
   "name": "vcal"
-, "version": "0.0.1"
-, "description": ""
+, "version": "0.0.2"
+, "description": "Create and parse ics files"
 , "author": "Wil Asche <wil@asche.us>"
+, "contributors": [
+{'RedRudeBoy':'redrudeboy@github'}
+]
 , "keywords": ["vcal", "ics", "ical", "icalendar"]
-, "repository": "git://github.com/kurakin/node-vcal.git"
-, "dependencies": {
-	}
+, "repository": "git://github.com/redrudeboy/node-vcal.git"
+, "dependencies": {}
 , "engine": ">= 0.4.1"
 }
